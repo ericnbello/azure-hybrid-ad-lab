@@ -65,4 +65,4 @@ This project demonstrates the setup and configuration of a hybrid Active Directo
     - Enable password hash synchronization during the Azure AD Connect setup.
 
 ## Conclusion
-This project showcases a comprehensive approach to integrating on-premises Active Directory with Azure, providing a robust hybrid identity solution. By following the steps outlined, you can achieve seamless SSO and secure user authentication across your hybrid environment. This setup is ideal for demonstrating practical knowledge of AD, Azure integration, and hybrid identity management to potential employers.
+This project showcases a comprehensive approach to integrating on-premises Active Directory with Azure, providing a robust hybrid identity solution. By following the steps outlined, you can achieve seamless SSO and secure user authentication across your hybrid environment. This setup is ideal for demonstrating practical knowledge of AD, Azure integration, and hybrid identity management.
